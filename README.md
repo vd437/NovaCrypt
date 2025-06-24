@@ -36,4 +36,4 @@ NovaCrypt provides advanced cryptographic operations using:
    - Incorporates system entropy sources
    - Provides unique encryption results even with identical inputs
 
-git clone https://github.com/vd437/mycryptlib.git￼Enter
+git clone https://github.com/vd437/mycryptlib.git
